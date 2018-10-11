@@ -1,0 +1,7 @@
+"COMP9334Project" - program code
+In program code, data are ouput mainly by Java class Analysis.
+
+"simulator-logs" - analysis files and simulation data
+
+Due to lagre size of data, some files could be provided by a cloud link. 
+ 
